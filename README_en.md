@@ -2,7 +2,7 @@
 Generative Large Language Model API Server
 
 ## Features
-- **Fast Response**: Based on the Qwen1.5-0.5B large language model developed by Alibaba, providing fast and accurate Q&A services.
+- **Fast Response**: Based on the Qwen2-0.5B large language model developed by Alibaba, providing fast and accurate Q&A services.
 - **Context Memory**: Optional configuration, supports dialogue context memory, making the conversation more coherent.
 - **API Integration**: Convenient integration into various applications through API calls.
 - **JSON Format Response**: The server returns formatted JSON data, which is easy to parse and process.

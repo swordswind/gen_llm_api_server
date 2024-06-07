@@ -6,7 +6,7 @@ app = FastAPI()
 # 指定设备
 device = "cpu"
 # 加载模型和分词器
-model_name = "Qwen1.5-0.5B-Chat"
+model_name = "Qwen2-0.5B-Instruct"
 model = None
 tokenizer = None
 
